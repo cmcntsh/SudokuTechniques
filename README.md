@@ -1,5 +1,6 @@
 # Sudoku Techniques
 
+* https://sudoku.coach/en/campaign
 * Hidden single (Line)
 * Naked single
 * Hidden pair
