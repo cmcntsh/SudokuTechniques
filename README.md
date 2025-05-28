@@ -26,5 +26,15 @@
 * Empty rectangle
 * Finned x-wing
 * XYZ-wing
-* W-wing
-* 
+* W-wing (matching bi-value cells that don't directly see each other, but are both affected by third cell)
+* Unique rectangle
+* BUG+1
+* Finned swordfish
+* Jellyfish
+* X-chain
+* Finned jellyfish
+* WXYZ-wing
+* XY-chain
+* 3D-medusa
+* AIC
+* Forcing chain
